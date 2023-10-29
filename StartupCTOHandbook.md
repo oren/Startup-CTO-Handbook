@@ -1697,7 +1697,7 @@ Depending on which article you read, 70 90 percent of communication is nonverbal
 
 #### Recording Meetings
 
-Comment by Oren Golan, Oct 28 2023: add feedback loops before adopting this practice! If folks are not comfortable with recording meetings, right down the reason and collect reasons. Your culture lead you to record meetings rarly or with text only at times.
+Comment by Oren Golan, Oct 28 2023: add feedback loops before adopting this practice! If folks are not comfortable with recording meetings, add data point to the data storage of this meeting/mechanism. Depends on the meeting objectives, text recording might perform better than video recording"
 
 Recorded meetings provide a great way to allow employees to get up to speed on a topic without requiring a work stoppage for a calendared meeting. In general, you'll find that very few employees or candidates are opposed to the idea of recording video calls. Recordings are also a great way to expose more people to some content than is perhaps comfortable in the moment. For example, you may want a hiring team of four or five people to watch an interview with a candidate, but having five people in the room at the time may be intimidating. Making a recording of a 1:1 interview is an excellent way to ensure everyone has the opportunity to evaluate the candidate without creating an uncomfortable or unfair situation by overloading the interview meeting itself.
 
