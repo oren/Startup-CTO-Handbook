@@ -273,6 +273,8 @@ I managed to catch him just as he was getting into a yellow cab. Somewhat exaspe
 
 ### 1:1 MEETINGS
 
+Updated by Oren Golan, Oct 29 2023.
+
 A 1:1 meeting is a private meeting between you and a direct report, a peer, or anyone in the company or outside that is valuable to you. It's tempting to treat 1:1s as status check-in meetings, and for the agenda to focus entirely on business or technical topics immediately at hand. It's all right if the agenda includes those topics, but this is your opportunity to establish a coaching relationship with your direct report. You should use this time to really get to know and understand how your report thinks, draw out and identify their strengths, and recognize weaknesses you can address to help the person do their best work. Use [Clean Language](https://oren.github.io/articles/how-to-facilitate-meaningful-conversations/) to learn about the person's internal landscape and build trust.
 
 Here is an example of an invite for a one on one with a peer.
