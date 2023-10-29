@@ -2,7 +2,7 @@
 
 ## Essential Skills And Best Practices For High Performing Engineering Teams
 
-## By Zach Goldberg
+## By Zach Goldberg. Modified by Oren Golan.
 
 **Disclaimer**:
 
@@ -1696,6 +1696,8 @@ You can support remote social building with remote happy hours, or virtual team 
 Depending on which article you read, 70 90 percent of communication is nonverbal. Using a webcam during a video call doesn't replace all of that 70 percent, but it is unquestionably an improvement over having no video at all. Since webcams are so cheap now, There'sreally no justification for not having that additional social communication bandwidth within your company. The common objection is that employees are worried that others may judge their appearance on camera. If that's a concern you are facing, I encourage you to walk through the business justification for wanting as high-quality communication as possible in a remote setting, and have a zero-tolerance policy for any employee who makes inappropriate remarks on another's appearance. It can also be helpful to create a space for people to do whatever they feel appropriate to get themselves ready, such as allowing/encouraging background blurs, and occasional video-off to deal with something in reality or to tidy up.
 
 #### Recording Meetings
+
+Comment by Oren Golan, Oct 28 2023: add feedback loops before adopting this practice! If folks are not comfortable with recording meetings, right down the reason and collect reasons. Your culture lead you to record meetings rarly or with text only at times.
 
 Recorded meetings provide a great way to allow employees to get up to speed on a topic without requiring a work stoppage for a calendared meeting. In general, you'll find that very few employees or candidates are opposed to the idea of recording video calls. Recordings are also a great way to expose more people to some content than is perhaps comfortable in the moment. For example, you may want a hiring team of four or five people to watch an interview with a candidate, but having five people in the room at the time may be intimidating. Making a recording of a 1:1 interview is an excellent way to ensure everyone has the opportunity to evaluate the candidate without creating an uncomfortable or unfair situation by overloading the interview meeting itself.
 
